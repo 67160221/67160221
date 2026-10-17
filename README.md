@@ -2,8 +2,8 @@
 
 นิรวิทธ์ ใจป้อ | รหัสนิสิต 67160221
 
-- Repository: https://github.com/YOUR_USERNAME/webdev-actions-lab
-- GitHub Pages: https://YOUR_USERNAME.github.io/webdev-actions-lab/
+- Repository: https://github.com/67160221/webdev-actions-lab
+- GitHub Pages: https://67160221.github.io/webdev-actions-lab/
 
 ## Exercise 4: Workflow เริ่มทำงานเมื่อใด และ Job deploy ทำอะไร
 
